@@ -25,9 +25,10 @@ to run, whereas Gatsby required multiple packages from all of the plugins.
 Gatsby would of course have me install the world through node_modules, whereas
 Jekyll requires very little. The Gemfile.lock is under 200 lines! For a casual
 project with a low update frequency, this is far more bearable. I will happily
-sacrifice my beloved TypeScript, React, GraphQL, Et Al for simplicity. I will
-take solace in simply writing Markdown, and hopefully with that simplicity, I
-will feel compelled to write more.
+sacrifice my beloved TypeScript, React, GraphQL, Et Al for simplicity.
+
+To my surprise, GitHub Pages can also now automatically deploy jekyll sites
+without us needing to write any CI YAML files ourselves!
 
 
 [Jekyll]: https://jekyllrb.com
