@@ -16,3 +16,25 @@ $sans-serif: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Roboto",
 .page__content {
     font-size: 16px;
 }
+
+.page__meta {
+    line-height: 30px;
+}
+
+.page__meta-tags {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.page__meta-tag {
+    display: inline-block;
+    padding: 2px 8px;
+    line-height: 1.5;
+    color: #fff;
+    background-color: #6c757d;
+    border-radius: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.75em;
+}

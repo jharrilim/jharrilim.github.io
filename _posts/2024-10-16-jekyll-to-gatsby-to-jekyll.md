@@ -2,8 +2,7 @@
 layout: single
 title:  "Jekyll, to Gatsby, to Jekyll"
 date:   2024-10-16 20:25:03 -0400
-categories: jekyll update
-author_profile: true
+tags: jekyll update
 ---
 
 Originally I had used [Jekyll] to create my personal website. I wasn't acquainted
