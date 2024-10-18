@@ -27,8 +27,11 @@ url: "https://josephharrisonlim.com" # the base hostname & protocol for your sit
 github_username: jharrilim
 
 # Build settings
-# theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+# Unfortunately there isn't a better way to handle this, but for local development,
+# comment out remote_theme and uncomment theme for faster local boot times (about 12s saved)
+theme: minimal-mistakes-jekyll
+# remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
