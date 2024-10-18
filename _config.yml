@@ -27,10 +27,11 @@ url: "https://josephharrisonlim.com" # the base hostname & protocol for your sit
 github_username:  jharrilim
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,3 +52,33 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# Settings for minimal-mistakes-jekyll theme
+search: true
+lunr:
+  search_within_pages: true
+include: ["_pages"]
+author:
+  name: "Joseph Harrison-Lim"
+  avatar: "https://avatars.githubusercontent.com/u/19535809"
+  bio: "My personal website."
+  location: "Ontario, Canada"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/jharrilim"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/joseph-harrison-lim/"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
