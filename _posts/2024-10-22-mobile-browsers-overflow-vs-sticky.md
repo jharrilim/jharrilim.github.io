@@ -21,9 +21,13 @@ you can't scroll fully. This is because the mobile browser includes its own
 header and footer in height calculations, so you can't actually scroll to see
 the bottom of the page.
 
-![](/assets/images/2024-10-22-mobile-browsers-overflow-vs-sticky/overflow.png)
+<div style="text-align: center;">
+<img src="/assets/images/2024-10-22-mobile-browsers-overflow-vs-sticky/overflow.png" alt="Overflow" style="max-width: 400px;">
+</div>
 
 If you instead use `position: sticky` on the header, it will stay in its spot,
 and you can scroll to the bottom of the page.
 
-![](/assets/images/2024-10-22-mobile-browsers-overflow-vs-sticky/sticky.png)
+<div style="text-align: center;">
+<img src="/assets/images/2024-10-22-mobile-browsers-overflow-vs-sticky/sticky.png" alt="Sticky" style="max-width: 400px;">
+</div>
