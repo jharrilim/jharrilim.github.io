@@ -71,7 +71,11 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/joseph-harrison-lim/"
-
+pagination:
+  enabled: true
+  per_page: 3
+  sort_reverse: true
+  title: ':title | Page :num'
 defaults:
   # _posts
   - scope:
