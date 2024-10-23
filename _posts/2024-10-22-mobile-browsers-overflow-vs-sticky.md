@@ -22,12 +22,12 @@ header and footer in height calculations, so you can't actually scroll to see
 the bottom of the page.
 
 <div style="text-align: center;">
-<img src="/assets/images/2024-10-22-mobile-browsers-overflow-vs-sticky/overflow.png" alt="Overflow" style="max-width: 400px;">
+<img src="/assets/images/2024-10-22-mobile-browsers-overflow-vs-sticky/overflow.png" alt="Overflow" style="width: 100%; max-width: 400px;">
 </div>
 
 If you instead use `position: sticky` on the header, it will stay in its spot,
 and you can scroll to the bottom of the page.
 
 <div style="text-align: center;">
-<img src="/assets/images/2024-10-22-mobile-browsers-overflow-vs-sticky/sticky.png" alt="Sticky" style="max-width: 400px;">
+<img src="/assets/images/2024-10-22-mobile-browsers-overflow-vs-sticky/sticky.png" alt="Sticky" style="width: 100%; max-width: 400px;">
 </div>
