@@ -106,7 +106,8 @@ The rebuttal here is fairly simple at a high level:
    or no cause, therefore it must have an external cause
 
 If we can confidently object both the internal cause and no cause possibilities,
-then that leaves us with only external cause.
+then that leaves us with only external cause. Below are the objections in
+detail, which show that the conclusion is logically necessary.
 
 #### Objection Against the Internal Cause
 
@@ -121,10 +122,6 @@ The concept of an internal cause creates a logical contradiction:
 4. This contradicts the premise that reality has only an internal cause with no
    external cause
 5. Therefore, reality cannot have an internal cause
-
-The idea of an internal cause is likely the weakest choice out of all the
-options as it's the easiest to refute. It relies on broken logic. it requires
-reality to exist before it exists, which is impossible.
 
 #### Objection Against no Cause
 
