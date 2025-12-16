@@ -23,7 +23,10 @@ Argument and prove that an external cause logically **must** exist. I also will
 not be proving any other attributes commonly associated with the concept of God,
 such as it being an infinitely good being, or any of the omni-attributes. Any
 reference to God or external creator in this text thus has a single attribute:
-_it caused our existence_.
+_it caused our existence_. I must stress that because of that, the notion of
+this creator is so vague that you needn't default to imagining it as any of the
+personal Gods - you may for example imagine a creator as something akin to a
+Game of Life production rule, or a state change in a larger category.
 
 ## Background
 
