@@ -29,11 +29,13 @@ First, let's define the relation between reality and its creator.
 
 ![Relation between reality and its creator](/assets/images/categorizing-reality-and-higher-order-thinking/reality-causer.001.jpeg)
 
-We can see that within the category of reality, we have defined attributes
-that make up our existence. Within the category of creator, we have a question
-mark, representing the unknown attributes of the creator. We also have a
-relation defined between creator and reality, showcasing that a creator creates
-reality.
+We can see that within the category of reality, we have defined attributes that
+make up our existence. These aren't all of the attributes of our reality, but
+they are just an example of what is contained within reality.
+
+Within the category of creator, we have a question mark, representing the
+unknown attributes of the creator. We also have a relation defined between
+creator and reality, showcasing that a creator creates reality.
 
 With this set up, we can now determine facts such as these about the creator:
 
