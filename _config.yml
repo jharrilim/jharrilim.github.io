@@ -58,7 +58,14 @@ plugins:
 search: true
 lunr:
   search_within_pages: true
-include: ["_pages"]
+include: ["_pages", "_philosophy"]
+
+# Collections
+collections_dir: collections
+collections:
+  philosophy:
+    output: true
+    permalink: /philosophy/:name/
 author:
   name: "Joseph Harrison-Lim"
   avatar: "https://avatars.githubusercontent.com/u/19535809"
@@ -88,3 +95,13 @@ defaults:
       related: true
       show_date: true
       categories: blog
+  # _philosophy
+  - scope:
+      path: ""
+      type: philosophy
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true

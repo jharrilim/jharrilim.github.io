@@ -5,8 +5,8 @@ permalink: /about/
 author_profile: true
 ---
 
-Rust, compilers, full-stack development, memes, guitar. Forever learning.
+Rust, compilers, full-stack development, philosophy, guitar. Forever learning.
 Currently focused on building [total-thought], learning the inner-workings of
-LLMs, and Mandarin.
+LLMs, and French.
 
 [total-thought]: https://total-thought.com
