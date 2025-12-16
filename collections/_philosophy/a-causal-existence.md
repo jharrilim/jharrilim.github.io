@@ -223,5 +223,5 @@ cannot answer questions about what exists outside of reality itself, because:
 The external cause is not a placeholder for scientific ignorance—it's a logical
 conclusion that follows necessarily from the structure of reality itself.
 
-[Unmoved Mover Argument]: https://en.wikipedia.org/wiki/Unmoved_mover
+[Unmoved/Prime Mover Argument]: https://en.wikipedia.org/wiki/Unmoved_mover
 [Kalam Cosmological Argument]: https://en.wikipedia.org/wiki/Kalam_cosmological_argument
