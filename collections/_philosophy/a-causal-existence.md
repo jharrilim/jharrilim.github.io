@@ -2,6 +2,8 @@
 title: "A Causal Existence: Reinforcing The Cosmological Argument"
 ---
 
+A logical proof that existence is caused by something outside of existence.
+
 ## Preface
 
 A topic that's been debated for thousands of years in philosophy is whether or
@@ -91,7 +93,7 @@ Now, let's rebut the 2nd and 3rd possibilities.
 
 ### The Rebuttal
 
-The rebuttal here seems fairly simple:
+The rebuttal here is fairly simple at a high level:
 
 1. Reality isn't caused by external cause
 2. Reality must then have an internal cause or no cause
