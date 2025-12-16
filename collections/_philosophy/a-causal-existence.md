@@ -1,5 +1,8 @@
 ---
 title: "A Causal Existence: Reinforcing The Cosmological Argument"
+date: 2025-12-15 20:00:00 -0400
+tags:
+  - Ontology
 ---
 
 A logical proof that existence is caused by something outside of existence.
