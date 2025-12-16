@@ -119,13 +119,6 @@ The concept of an internal cause creates a logical contradiction:
    external cause
 5. Therefore, reality cannot have an internal cause
 
-Alternatively, we can approach this through temporal logic:
-
-1. If reality caused itself, then reality must have existed at time T₁ to cause itself
-2. But for reality to cause itself, reality must not have existed before time T₁ (otherwise it wouldn't need to cause itself)
-3. This means reality both existed and did not exist at time T₁, which is a logical contradiction
-4. Therefore, reality cannot have caused itself
-
 The idea of an internal cause is likely the weakest choice out of all the
 options as it's the easiest to refute. It relies on broken logic. it requires
 reality to exist before it exists, which is impossible.
