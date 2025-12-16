@@ -144,14 +144,7 @@ reality to exist before it exists, which is impossible.
    fundamentally unreliable
 9. In either case, reality cannot fully account for its own existence from
    within itself
-10. Therefore, reality must have an external cause that exists outside of
-   reality's logical framework
-
-As an aside, this objection also has the consequence of affirming what we know
-about Science and logic already. Science is a framework of observation based on
-consistently observed occurrences, and logic is a framework of deduction based
-on consistent rules. Logic cannot replace science, and science cannot replace
-logic.
+10. Therefore, reality must have an external cause
 
 
 ## Miscellaneous Objections
