@@ -1,6 +1,6 @@
 ---
 title: "Categorizing Reality and Higher Order Thinking"
-date: 2025-12-15 20:00:00 -0400
+date: 2025-12-15 21:00:00 -0400
 tags:
   - Ontology
 ---
@@ -16,7 +16,7 @@ they're comprised of.
 
 ## The Issues That Occur Without Understanding Categories
 
-When discussinng topics such as the existence of a creator, sometimes people
+When discussing topics such as the existence of a creator, sometimes people
 make the mistake of assuming that the creator must follow the same laws as
 reality. An example of this is assuming that if our reality is created, then
 it must follow that the creator is also created, and there is an infinite chain
@@ -25,7 +25,7 @@ above our reality.
 
 ## What We Can Determine About a Potential Creator Using Categories
 
-First, let's define the relation between reality and its creator.
+First, let's define a relation between reality and its creator.
 
 ![Relation between reality and its creator](/assets/images/categorizing-reality-and-higher-order-thinking/reality-causer.001.jpeg)
 
@@ -47,6 +47,27 @@ With this set up, we can now determine facts such as these about the creator:
    but it isn't necessarily so for all causal relationships. A reality created
    without the attribute of logic would not be able to even begin to think about
    the causation of its own existence.
+
+This is not the only way to envision a creator, but it's useful for showing the
+limits of certain properties. Logic being a rule of our reality makes it so that
+it isn't necessarily applicable outside of our reality; it is simply unknown.
+Our gap in logic itself however is what allows us to determine the relationship
+part, ie. the arrow in the diagram.
+
+Another way you can look at it is this:
+
+![Reality as a subset of a larger category](/assets/images/categorizing-reality-and-higher-order-thinking/reality.002.jpeg)
+
+This still makes reality contingent on a creator category, except this time,
+it's represented as a subset of the creator category, which we are calling here
+"hyper-reality". If this is the actual relationship, then it has other
+interesting implications:
+
+1. Our reality being a subset of a hyper-reality means that the we are "a part
+   of" the hyper-reality and not simply "caused by" it.
+2. The logic of our reality can be considered contained within the hyper-reality,
+   but not necessarily a part of it's own logic, or interacting with things in
+   the space of the hyper-reality that is outside of our reality.
 
 ## Visualize Yourself as a Simulation Developer
 
